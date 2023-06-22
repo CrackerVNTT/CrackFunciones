@@ -114,5 +114,6 @@ Funciones:
 
 # Creador
 
-![Icono de Telegram](https://github.com/CrackerVNTT/CrackFunciones/assets/137449559/281b134b-3b1f-466a-9479-cdc39999e964)
+
+![Icono de Telegram](https://github.com/CrackerVNTT/CrackFunciones/assets/137449559/439f57a8-1ba4-4a27-a2d0-3985764bbdbc)
 
