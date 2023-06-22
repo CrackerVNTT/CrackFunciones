@@ -28,7 +28,7 @@ Dictionary<string, string> headers = new Dictionary<string, string>()
     { "Sec-Fetch-Mode", "cors" },
     { "Sec-Fetch-Site", "same-site" },
     { "User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" }
-};```
+}; // Fin del código
 Esto se basa en un ejemplo cada vez que vayamos a usar headers, recuerda usar Dictionary y agregarle los datos manualmente, de lo contrario generará errores en el código y no funcionará.
 
 Request:
