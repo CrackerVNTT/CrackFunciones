@@ -102,5 +102,12 @@ Method JSON:
 
 
 Y la ultima parte hablemos de las funciones. 
-**Las funciones no tienen agregadas todas solo contiene las que yo vi importantes, pero ustedes pueden ver y echar un vistaso**
 
+Funciones:
+- Encriptaciones
+- Ramdons
+- Times
+- Otros
+- 
+
+**Ustedes pueden buscarlas y listo**
