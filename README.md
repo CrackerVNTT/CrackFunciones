@@ -79,5 +79,9 @@ var Recived = Request.Request.SendRequest("https://ajax.streamable.com/check", "
 Method LR:
 -Muestro un ejemplo como usarlo arriva para que lo analisen.
 -El primer parametro que recive es el dato que que responde nuestra solicitud POST, por segundo donde va a comensar a capturar y el tercero en donde terminara.
--El `FALSE` que vemos ahi para `Recursividad` osea si existen muchos datos con los mismos datos ingresados los captura.
+-El `FALSE` que vemos ahi para `Recursividad` Si recursive es true, se realiza la recursividad para capturar datos repetidos.
 
+Pasos:
+- Primero debes descargar el proyecto tal y como está. En cada carpeta se encuentran bibliotecas de clases que usaremos más adelante.
+- Luego, desde nuestro proyecto, hacemos referencia a las bibliotecas de clases que se encuentran dentro de cada carpeta.
+- ¡Listo! Ahora tendremos las bibliotecas de clases que nos ayudarán más adelante a programar.
