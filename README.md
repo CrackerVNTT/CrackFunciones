@@ -111,10 +111,8 @@ Funciones:
 - Otros
 
 **Ustedes pueden buscarlas y listo**
-![telegrama (3)](https://github.com/CrackerVNTT/CrackFunciones/assets/137449559/b656bcde-37ef-477d-94ba-091c414b3c08)
 
 
 # Creador
-![Screenshot 2023-06-22 15-33-34](https://github.com/CrackerVNTT/CrackFunciones/assets/137449559/129fdb61-07da-4d88-b839-902e6e3c90be)
 
-<img src="https://github.com/CrackerVNTT/CrackFunciones/assets/137449559/b656bcde-37ef-477d-94ba-091c414b3c08" alt="Telegram" width="20"/> Contacto: &#64;CrackerVntt
+<img src="https://github.com/CrackerVNTT/CrackFunciones/assets/137449559/b656bcde-37ef-477d-94ba-091c414b3c08" alt="Telegram" width="30"/> Contacto: &#64;CrackerVntt
