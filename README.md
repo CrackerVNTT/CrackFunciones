@@ -12,7 +12,7 @@ Pasos:
 
 El proyecto `example` es un ejemplo para que puedas ver más o menos cómo funciona.
 
-## Ejemplo de código
+## Request de código
 
 Headers:
 
@@ -62,3 +62,22 @@ string content = Recived.Content;
 int code = (int)Recived.StatusCode;
 ```
 Estas son algunas formas en las que podemos usarlo.
+
+
+
+
+## PARSE de código
+
+
+LR:
+
+```csharp
+var Recived = Request.Request.SendRequest("https://ajax.streamable.com/check", "POST", "{\"username\":\"<USER>\",\"password\":\"<PASS>\"}",
+                "application/json", headers, array[0], array[1], ProxyType.Socks4, list[rn.Next(list.Count)]).Content;
+                string texts = Parse.LR(Recived.ToString(), "{\"error\":\"", "\",\"message\":", false);
+```
+Method LR:
+-Muestro un ejemplo como usarlo arriva para que lo analisen.
+-El primer parametro que recive es el dato que que responde nuestra solicitud POST, por segundo donde va a comensar a capturar y el tercero en donde terminara.
+-El `FALSE` que vemos ahi para `Recursividad` osea si existen muchos datos con los mismos datos ingresados los captura.
+
