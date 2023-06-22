@@ -5,5 +5,10 @@
 
 `El proyecto fue creado con el fin de facilitarle el trabajo a las personas que recien inician el cracking y checkers(programacio)`
 
-## **hoka** ##
-`Código en línea`
+## **Como Funciona?** ##
+Pasos:
+- Primero deves de descargar el proyecto tal y como esta, en cada carpeta se encuentran biblotecas de clases que usaremos adelante.
+- Despues desde nuestro proyecto hacemos refenecia a las bibloteclas de clases que se encuentran dentro de cada carpeta.
+- Y listo ya tendremos las biblitecas de clases que nos ayudaran mas adelante a programar
+
+`El proyecto example va un ejemplo para que veas mas omenos como va la onda` 
