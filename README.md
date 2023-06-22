@@ -35,11 +35,11 @@ Dictionary<string, string> headers = new Dictionary<string, string>()
 Esto se basa en un ejemplo cada vez que vayamos a usar headers, recuerda usar Dictionary y agregarle los datos manualmente, de lo contrario generará errores en el código y no funcionará.
 
 Request:
-
-csharp
-Copy code
+```csharp
 var Recived = Request.Request.SendRequest("https://ajax.streamable.com/check", "POST", "{\"username\":\"<USER>\",\"password\":\"<PASS>\"}",
                     "application/json", headers, array[0], array[1], ProxyType.Socks4, list[rn.Next(list.Count)]).Content;
+```
+            
 Esto se basa en enviar la petición ya programada a la biblioteca de clases. El orden es el siguiente: (url), (method), (content), (contentype), (header) -> Recuerda agregar los headers en un Dictionary, (email), (password), (ProxyType.Socks4, ProxyType.HTTP, ProxyType.Socks5, ProxyType.NO) -> Cualquier tipo de proxy que queramos usar, (proxy) -> aquí se ingresará el proxy.
 
 Nota: El código solo soporta los métodos POST y GET.
