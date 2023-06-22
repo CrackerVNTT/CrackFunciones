@@ -98,7 +98,7 @@ Method JSON:
 
 ## Funcioens de código
 
-![Screenshot 2023-06-22 15-33-34](https://github.com/CrackerVNTT/CrackFunciones/assets/137449559/129fdb61-07da-4d88-b839-902e6e3c90be)
+![Screenshot 2023-06-22 15-45-51](https://github.com/CrackerVNTT/CrackFunciones/assets/137449559/557acf65-8552-4e48-aa71-3cebca484054)
 
 
 Y la ultima parte hablemos de las funciones. 
@@ -113,6 +113,9 @@ Funciones:
 
 
 # Creador
+<details>
+<summary>Icono de Telegram</summary>
 
 ![Icono de Telegram](https://github.com/CrackerVNTT/CrackFunciones/assets/137449559/c348f730-3b60-425f-8e1c-e936ff517f8e)
 
+</details>
