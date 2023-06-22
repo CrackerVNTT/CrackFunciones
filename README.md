@@ -82,7 +82,7 @@ Method LR:
 - Muestro un ejemplo como usarlo arriva para que lo analisen.
 - El primer parametro que recive es el dato que que responde nuestra solicitud POST, por segundo donde va a comensar a capturar y el tercero en donde terminara.
 - El `FALSE` que vemos ahi para `Recursividad` Si recursive es true, se realiza la recursividad para capturar datos repetidos.
-- 
+
 
 JSON:
 
@@ -108,6 +108,11 @@ Funciones:
 - Ramdons
 - Times
 - Otros
-- 
 
 **Ustedes pueden buscarlas y listo**
+
+
+# Creador
+
+![Icono de Telegram](https://github.com/CrackerVNTT/CrackFunciones/assets/137449559/281b134b-3b1f-466a-9479-cdc39999e964)
+
