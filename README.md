@@ -115,4 +115,4 @@ Funciones:
 
 # Creador
 
-<a href="https://t.me/CrackerVntt" style="color: blue;"><img src="https://github.com/CrackerVNTT/CrackFunciones/assets/137449559/b656bcde-37ef-477d-94ba-091c414b3c08" alt="Telegram" width="30"/> Contacto: &#64;CrackerVntt</a>
+<a href="https://t.me/CrackerVntt" style="color: blue;"><img src="https://github.com/CrackerVNTT/CrackFunciones/assets/137449559/b656bcde-37ef-477d-94ba-091c414b3c08" alt="Telegram" width="30"/> Contacto: &#64;@CrackerVntt</a>
