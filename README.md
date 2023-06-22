@@ -40,7 +40,7 @@ var Recived = Request.Request.SendRequest("https://ajax.streamable.com/check", "
                     "application/json", headers, array[0], array[1], ProxyType.Socks4, list[rn.Next(list.Count)]).Content;
 ```
             
-Esto se basa en enviar la petición ya programada a la biblioteca de clases. El orden es el siguiente: (url), (method), (content), (contentype), (header) -> Recuerda agregar los headers en un Dictionary, (email), (password), (ProxyType.Socks4, ProxyType.HTTP, ProxyType.Socks5, ProxyType.NO) -> Cualquier tipo de proxy que queramos usar, (proxy) -> aquí se ingresará el proxy.
+**Esto se basa en enviar la petición ya programada a la biblioteca de clases. El orden es el siguiente: (url), (method), (content), (contentype), (header) -> Recuerda agregar los headers en un Dictionary, (email), (password), (ProxyType.Socks4, ProxyType.HTTP, ProxyType.Socks5, ProxyType.NO) -> Cualquier tipo de proxy que queramos usar, (proxy) -> aquí se ingresará el proxy.**
 
 Nota: El código solo soporta los métodos POST y GET.
 
@@ -50,7 +50,7 @@ Si vamos a hacer una petición GET, sería así:
 var Recived = Request.Request.SendRequest("https://ajax.streamable.com/check", "GET", string.Empty,
                    string.Empty, null, string.Empty, string.Empty, ProxyType.No, string.Empty).Content;
 ```
-Cada vez que no vayamos a usar datos, simplemente usemos "String.Empty" o, si es un Dictionary, nulo.
+**Cada vez que no vayamos a usar datos, simplemente usemos "String.Empty" o, si es un Dictionary, nulo.**
 
 Si queremos obtener datos como el contenido (Content) o el código de estado (Status Code), podría ser así:
 
