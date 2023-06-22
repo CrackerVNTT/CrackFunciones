@@ -93,3 +93,14 @@ var Recived = Request.Request.SendRequest("https://ajax.streamable.com/check", "
 ```
 Method JSON:
 - Muestro un ejemplo como usarlo arriva para que lo analisen.
+
+
+
+## Funcioens de código
+
+![Screenshot 2023-06-22 15-33-34](https://github.com/CrackerVNTT/CrackFunciones/assets/137449559/129fdb61-07da-4d88-b839-902e6e3c90be)
+
+
+Y la ultima parte hablemos de las funciones. 
+**Las funciones no tienen agregadas todas solo contiene las que yo vi importantes, pero ustedes pueden ver y echar un vistaso**
+
